@@ -1,0 +1,56 @@
+body {
+    background-image: url(Imagens/marketing1.jpg);
+    background-size: cover;
+    color: blue;
+    text-align: right;
+    margin-right: 80px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 100px;
+    padding-top: 280px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0%;
+    opacity: 0.8;
+}
+
+span {
+    color: green;
+}
+
+ul {
+    list-style: none;
+    margin-top: 50px;
+}
+
+li {
+    display: inline;
+}
+
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.segundo-paragrafo {
+    margin-bottom: 60px;
+}
+
+.botao {
+    text-decoration: none;
+    background-color: green;
+    padding: 5px 10px;
+    color: white;
+}
+
+.botao:hover {
+    opacity: 0.7;
+}
+@media
